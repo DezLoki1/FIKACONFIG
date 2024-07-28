@@ -1,0 +1,2175 @@
+{
+  "info": {
+    "id": "66a58d5e00023bff1d4a0624",
+    "scavId": "66a58d5e00033f15b72e6b90",
+    "aid": 1117814,
+    "username": "Sardine",
+    "password": "",
+    "wipe": false,
+    "edition": "Standard"
+  },
+  "characters": {
+    "pmc": {
+      "TaskConditionCounters": {},
+      "Bonuses": [
+        {
+          "id": "64f5b9e5fa34f11b380756c0",
+          "templateId": "566abbc34bdc2d92178b4576",
+          "type": "StashSize"
+        }
+      ],
+      "Customization": {
+        "Body": "5cc0858d14c02e000c6bea66",
+        "Feet": "5cc085bb14c02e000e67a5c5",
+        "Hands": "5cc0876314c02e000c6bea6b",
+        "Head": "60a6aaad42fd2735e4589978"
+      },
+      "Encyclopedia": {
+        "5448bd6b4bdc2dfc2f8b4569": false,
+        "5448c12b4bdc2d02308b456f": false,
+        "5448fee04bdc2dbc018b4567": false,
+        "5449016a4bdc2d6f028b456f": false,
+        "54491bb74bdc2d09088b4567": false,
+        "544a11ac4bdc2d470e8b456a": false,
+        "544a5cde4bdc2d39388b456b": false,
+        "544fb25a4bdc2dfb738b4567": false,
+        "544fb3364bdc2d34748b456a": false,
+        "544fb37f4bdc2dee738b4567": false,
+        "557ffd194bdc2d28148b457f": false,
+        "55d480c04bdc2d1d4e8b456a": false,
+        "55d7217a4bdc2d86028b456d": false,
+        "5645bcc04bdc2d363b8b4572": false,
+        "5648a7494bdc2d9d488b4583": false,
+        "5648b1504bdc2d9d488b4584": false,
+        "5649ad3f4bdc2df8348b4585": false,
+        "5649ade84bdc2d1b2b8b4587": false,
+        "564ca99c4bdc2d16268b4589": false,
+        "566abbc34bdc2d92178b4576": false,
+        "56d59d3ad2720bdb418b4577": false,
+        "56dfef82d2720bbd668b4567": true,
+        "56dff3afd2720bba668b4567": false,
+        "5710c24ad2720bc3458b45a3": false,
+        "57347d7224597744596b4e72": false,
+        "57347da92459774491567cf5": false,
+        "573718ba2459775a75491131": false,
+        "5751a25924597722c463c472": false,
+        "5755356824597772cb798962": false,
+        "5755383e24597772cb798966": false,
+        "576a581d2459771e7b1bc4f1": true,
+        "576a5ed62459771e9c2096cb": false,
+        "576a63cd2459771e796e0e11": false,
+        "576a7c512459771e796e0e17": true,
+        "57dc2fa62459775949412633": false,
+        "57dc324a24597759501edc20": true,
+        "57dc32dc245977596d4ef3d3": false,
+        "57dc334d245977597164366f": true,
+        "57dc347d245977596754e7a1": false,
+        "590c5d4b86f774784e1b9c45": false,
+        "590c5f0d86f77413997acfab": false,
+        "590c661e86f7741e566b646a": false,
+        "59984ab886f7743e98271174": false,
+        "5998517986f7746017232f7e": false,
+        "599851db86f77467372f0a18": false,
+        "5998597786f77414ea6da093": false,
+        "59985a8086f77414ec448d1a": false,
+        "599860ac86f77436b225ed1a": false,
+        "599860e986f7743bb57573a6": false,
+        "59c6633186f7740cf0493bb9": false,
+        "59ccd11386f77428f24a488f": false,
+        "59d36a0086f7747e673f3946": true,
+        "5a0c27731526d80618476ac4": false,
+        "5aa2b87de5b5b00016327c25": false,
+        "5ac4cd105acfc40016339859": false,
+        "5ac50c185acfc400163398d4": false,
+        "5ac50da15acfc4001718d287": false,
+        "5ac72e475acfc400180ae6fe": false,
+        "5ac7655e5acfc40016339a19": false,
+        "5b40e5e25acfc4001a599bea": false,
+        "5b432b965acfc47a8774094e": false,
+        "5bffdc370db834001d23eca8": false,
+        "5ca20abf86f77418567a43f2": false,
+        "5ca20d5986f774331e7c9602": false,
+        "5d1b371186f774253763a656": false,
+        "5d40407c86f774318526545a": false,
+        "5e2af47786f7746d404f3aaa": false,
+        "5e2af4a786f7746d3f3c3400": false,
+        "5e831507ea0a7c419c2f9bd9": false
+      },
+      "Health": {
+        "BodyParts": {
+          "Chest": {
+            "Health": {
+              "Current": 120,
+              "Maximum": 120
+            }
+          },
+          "Head": {
+            "Health": {
+              "Current": 20,
+              "Maximum": 20
+            }
+          },
+          "LeftArm": {
+            "Health": {
+              "Current": 65,
+              "Maximum": 65
+            }
+          },
+          "LeftLeg": {
+            "Health": {
+              "Current": 60,
+              "Maximum": 60
+            }
+          },
+          "RightArm": {
+            "Health": {
+              "Current": 65,
+              "Maximum": 65
+            }
+          },
+          "RightLeg": {
+            "Health": {
+              "Current": 60,
+              "Maximum": 60
+            }
+          },
+          "Stomach": {
+            "Health": {
+              "Current": 120,
+              "Maximum": 120
+            }
+          }
+        },
+        "Energy": {
+          "Current": 100,
+          "Maximum": 100
+        },
+        "Hydration": {
+          "Current": 100,
+          "Maximum": 100
+        },
+        "Temperature": {
+          "Current": 30,
+          "Maximum": 30
+        },
+        "UpdateTime": 1722127290
+      },
+      "Hideout": {
+        "Areas": [
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 1,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 3
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 0
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 1
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 2
+          },
+          {
+            "active": false,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [
+              {
+                "locationIndex": 0
+              },
+              {
+                "locationIndex": 1
+              },
+              {
+                "locationIndex": 2
+              },
+              {
+                "locationIndex": 3
+              },
+              {
+                "locationIndex": 4
+              },
+              {
+                "locationIndex": 5
+              },
+              {
+                "locationIndex": 6
+              },
+              {
+                "locationIndex": 7
+              }
+            ],
+            "type": 4
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 5
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [
+              {
+                "locationIndex": 0
+              },
+              {
+                "locationIndex": 1
+              },
+              {
+                "locationIndex": 2
+              }
+            ],
+            "type": 6
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 7
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 8
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 9
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 10
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 11
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 12
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 13
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 14
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 15
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 16
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": false,
+            "slots": [
+              {
+                "locationIndex": 0
+              },
+              {
+                "locationIndex": 1
+              },
+              {
+                "locationIndex": 2
+              },
+              {
+                "locationIndex": 3
+              },
+              {
+                "locationIndex": 4
+              }
+            ],
+            "type": 17
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 18
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 19
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [
+              {
+                "locationIndex": 0
+              },
+              {
+                "locationIndex": 1
+              },
+              {
+                "locationIndex": 2
+              },
+              {
+                "locationIndex": 3
+              },
+              {
+                "locationIndex": 4
+              },
+              {
+                "locationIndex": 5
+              },
+              {
+                "locationIndex": 6
+              },
+              {
+                "locationIndex": 7
+              },
+              {
+                "locationIndex": 8
+              },
+              {
+                "locationIndex": 9
+              },
+              {
+                "locationIndex": 10
+              },
+              {
+                "locationIndex": 11
+              },
+              {
+                "locationIndex": 12
+              },
+              {
+                "locationIndex": 13
+              },
+              {
+                "locationIndex": 14
+              },
+              {
+                "locationIndex": 15
+              },
+              {
+                "locationIndex": 16
+              },
+              {
+                "locationIndex": 17
+              },
+              {
+                "locationIndex": 18
+              },
+              {
+                "locationIndex": 19
+              },
+              {
+                "locationIndex": 20
+              },
+              {
+                "locationIndex": 21
+              },
+              {
+                "locationIndex": 22
+              },
+              {
+                "locationIndex": 23
+              },
+              {
+                "locationIndex": 24
+              },
+              {
+                "locationIndex": 25
+              },
+              {
+                "locationIndex": 26
+              },
+              {
+                "locationIndex": 27
+              },
+              {
+                "locationIndex": 28
+              },
+              {
+                "locationIndex": 29
+              },
+              {
+                "locationIndex": 30
+              },
+              {
+                "locationIndex": 31
+              },
+              {
+                "locationIndex": 32
+              },
+              {
+                "locationIndex": 33
+              },
+              {
+                "locationIndex": 34
+              },
+              {
+                "locationIndex": 35
+              },
+              {
+                "locationIndex": 36
+              },
+              {
+                "locationIndex": 37
+              },
+              {
+                "locationIndex": 38
+              },
+              {
+                "locationIndex": 39
+              },
+              {
+                "locationIndex": 40
+              },
+              {
+                "locationIndex": 41
+              },
+              {
+                "locationIndex": 42
+              },
+              {
+                "locationIndex": 43
+              },
+              {
+                "locationIndex": 44
+              },
+              {
+                "locationIndex": 45
+              },
+              {
+                "locationIndex": 46
+              },
+              {
+                "locationIndex": 47
+              },
+              {
+                "locationIndex": 48
+              },
+              {
+                "locationIndex": 49
+              }
+            ],
+            "type": 20
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 21
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 22
+          },
+          {
+            "active": true,
+            "completeTime": 0,
+            "constructing": false,
+            "lastRecipe": "",
+            "level": 0,
+            "passiveBonusesEnabled": true,
+            "slots": [],
+            "type": 23
+          },
+          {
+            "type": 24,
+            "level": 0,
+            "active": true,
+            "passiveBonusesEnabled": true,
+            "completeTime": 0,
+            "constructing": false,
+            "slots": [],
+            "lastRecipe": ""
+          },
+          {
+            "type": 25,
+            "level": 0,
+            "active": true,
+            "passiveBonusesEnabled": true,
+            "completeTime": 0,
+            "constructing": false,
+            "slots": [],
+            "lastRecipe": ""
+          }
+        ],
+        "Improvement": {},
+        "Production": {},
+        "Seed": 1974414235,
+        "sptUpdateLastRunTimestamp": 1722127816
+      },
+      "Info": {
+        "AccountType": 0,
+        "BannedState": false,
+        "BannedUntil": 0,
+        "Bans": [],
+        "Experience": 0,
+        "GameVersion": "standard",
+        "IsStreamerModeAvailable": false,
+        "LastTimePlayedAsSavage": 0,
+        "Level": 1,
+        "LowerNickname": "sardine",
+        "MemberCategory": 0,
+        "isMigratedSkills": false,
+        "SelectedMemberCategory": 0,
+        "Nickname": "Sardine",
+        "NicknameChangeDate": 0,
+        "RegistrationDate": 1722126235,
+        "SavageLockTime": 0,
+        "Settings": {
+          "BotDifficulty": "easy",
+          "Experience": -1,
+          "Role": "assault"
+        },
+        "Side": "Bear",
+        "SquadInviteRestriction": false,
+        "HasCoopExtension": false,
+        "Voice": "Bear_2_Eng",
+        "lockedMoveCommands": true,
+        "NeedWipeOptions": []
+      },
+      "InsuredItems": [],
+      "Inventory": {
+        "equipment": "bb91e80e8ec93e9461c514d7",
+        "fastPanel": {},
+        "hideoutAreaStashes": {},
+        "items": [
+          {
+            "_id": "bb91e80e8ec93e9461c514d7",
+            "_tpl": "55d7217a4bdc2d86028b456d"
+          },
+          {
+            "_id": "3e3982f800008548bd3fa27b",
+            "_tpl": "6401c7b213d9b818bf0e7dd7"
+          },
+          {
+            "_id": "327785fa56c058580f9a811c",
+            "_tpl": "5bffdc370db834001d23eca8",
+            "parentId": "bb91e80e8ec93e9461c514d7",
+            "slotId": "Scabbard",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "7266f6cd7332b336f2fe0cbc",
+            "_tpl": "5b40e5e25acfc4001a599bea",
+            "parentId": "bb91e80e8ec93e9461c514d7",
+            "slotId": "Headwear",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "b5f6ed97166b685f46c6e6e4",
+            "_tpl": "544a11ac4bdc2d470e8b456a",
+            "parentId": "bb91e80e8ec93e9461c514d7",
+            "slotId": "SecuredContainer"
+          },
+          {
+            "_id": "2630e6a02b28308352b87de2",
+            "_tpl": "627a4e6b255f7527fb05a0f6",
+            "parentId": "bb91e80e8ec93e9461c514d7",
+            "slotId": "Pockets"
+          },
+          {
+            "_id": "5fe4977574f15b4ad31b66b6",
+            "_tpl": "566abbc34bdc2d92178b4576"
+          },
+          {
+            "_id": "5fe4977574f15b4ad31b66b8",
+            "_tpl": "5963866b86f7747bfa1c4462"
+          },
+          {
+            "_id": "5fe4977574f15b4ad31b66b7",
+            "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "60dca3da42ad9b706b369aca",
+            "_tpl": "602543c13fee350cd564d032"
+          },
+          {
+            "_id": "1edf83b564e9c42460843cd1",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "upd": {
+              "StackObjectsCount": 5000,
+              "SpawnedInSession": true
+            },
+            "parentId": "b5f6ed97166b685f46c6e6e4",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal",
+              "isSearched": true
+            }
+          }
+        ],
+        "questRaidItems": "5fe4977574f15b4ad31b66b7",
+        "questStashItems": "5fe4977574f15b4ad31b66b8",
+        "sortingTable": "60dca3da42ad9b706b369aca",
+        "stash": "5fe4977574f15b4ad31b66b6"
+      },
+      "Notes": {
+        "Notes": []
+      },
+      "Quests": [
+        {
+          "qid": "657315df034d76585f032e01",
+          "startTime": 1722127290,
+          "status": 2,
+          "statusTimers": {
+            "2": 1722127290
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "657315ddab5a49b71f098853",
+          "startTime": 1722127291,
+          "status": 2,
+          "statusTimers": {
+            "2": 1722127291
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "657315e270bb0b8dba00cc48",
+          "startTime": 1722127292,
+          "status": 2,
+          "statusTimers": {
+            "2": 1722127292
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "657315e4a6af4ab4b50f3459",
+          "startTime": 1722127293,
+          "status": 2,
+          "statusTimers": {
+            "2": 1722127293
+          },
+          "completedConditions": []
+        }
+      ],
+      "RagfairInfo": {
+        "isRatingGrowing": true,
+        "offers": [],
+        "rating": 0.2
+      },
+      "Skills": {
+        "Common": [
+          {
+            "Id": "BotReload",
+            "LastAccess": -2147483648,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "BotSound",
+            "LastAccess": -2147483648,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Endurance",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Strength",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Vitality",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Health",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "StressResistance",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Metabolism",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Immunity",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Perception",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Intellect",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Attention",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Charisma",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Memory",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Pistol",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Revolver",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "SMG",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Assault",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Shotgun",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Sniper",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "LMG",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "HMG",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Launcher",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "AttachedLauncher",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Throwing",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Melee",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "DMR",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "RecoilControl",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "AimDrills",
+            "LastAccess": -2147483648,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "TroubleShooting",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Surgery",
+            "LastAccess": -2147483648,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "CovertMovement",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Search",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "MagDrills",
+            "LastAccess": -2147483648,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Sniping",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "ProneMovement",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "FieldMedicine",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "FirstAid",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "LightVests",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "HeavyVests",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "WeaponModding",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "AdvancedModding",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "NightOps",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "SilentOps",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Lockpicking",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "WeaponTreatment",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Freetrading",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Auctions",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Cleanoperations",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Barter",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Shadowconnections",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Taskperformance",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "Crafting",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "HideoutManagement",
+            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0,
+            "Progress": 0
+          },
+          {
+            "Id": "BearAssaultoperations",
+            "Progress": 0,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 0
+          },
+          {
+            "Id": "BearAuthority",
+            "Progress": 0,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 0
+          },
+          {
+            "Id": "BearAksystems",
+            "Progress": 0,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 0
+          },
+          {
+            "Id": "BearHeavycaliber",
+            "Progress": 0,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 0
+          },
+          {
+            "Id": "BearRawpower",
+            "Progress": 0,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 0
+          }
+        ],
+        "Mastering": [],
+        "Points": 0
+      },
+      "Stats": {
+        "Eft": {
+          "CarriedQuestItems": [],
+          "DamageHistory": {
+            "LethalDamagePart": "Head",
+            "BodyParts": []
+          },
+          "DroppedItems": [],
+          "ExperienceBonusMult": 0,
+          "FoundInRaidItems": [],
+          "LastSessionDate": 0,
+          "OverallCounters": {
+            "Items": []
+          },
+          "SessionCounters": {
+            "Items": []
+          },
+          "SessionExperienceMult": 0,
+          "SurvivorClass": "Unknown",
+          "TotalInGameTime": 0,
+          "TotalSessionExperience": 0,
+          "Victims": []
+        }
+      },
+      "TradersInfo": {
+        "54cb50c76803fa8b248b4571": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "54cb57776803fa99248b456e": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "579dc571d53a0658a154fbec": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1631484143,
+          "unlocked": true
+        },
+        "58330581ace78e27b8b10cee": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5935c25fb3acc3127c3d8cd9": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5a7c2eca46aef81a7ca2145d": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5ac3b934156ae10c4430e83c": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5c0647fdd443bc2504c2d371": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": false
+        },
+        "638f541a29ffd1183d187f57": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0.01,
+          "nextResupply": 1672241513,
+          "unlocked": true
+        },
+        "656f0f98d80a697f855d34b1": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": false
+        },
+        "6617beeaa9cfa777ca915b7c": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": false
+        },
+        "ragfair": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1576762923,
+          "unlocked": false
+        }
+      },
+      "UnlockedInfo": {
+        "unlockedProductionRecipe": []
+      },
+      "moneyTransferLimitData": {
+        "nextResetTime": 1717779074,
+        "remainingLimit": 1000000,
+        "totalLimit": 1000000,
+        "resetInterval": 86400
+      },
+      "WishList": [],
+      "_id": "66a58d5e00023bff1d4a0624",
+      "aid": 1117814,
+      "savage": "66a58d5e00033f15b72e6b90",
+      "sessionId": "66a58d5e00023bff1d4a0624",
+      "RepeatableQuests": [
+        {
+          "id": "615ffc701c97c768137e719b",
+          "name": "Daily",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        },
+        {
+          "id": "618035d38012292db3081bf0",
+          "name": "Weekly",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        },
+        {
+          "id": "62825ef60e88d037dc1eb426",
+          "name": "Daily_Savage",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        }
+      ],
+      "CarExtractCounts": {},
+      "CoopExtractCounts": {},
+      "Achievements": {}
+    },
+    "scav": {
+      "_id": "66a58d5e00033f15b72e6b90",
+      "aid": 1117814,
+      "Info": {
+        "Nickname": "Володарчик Бугурт",
+        "LowerNickname": "",
+        "Side": "Savage",
+        "Voice": "Scav_3",
+        "Level": 1,
+        "Experience": 0,
+        "RegistrationDate": 1722126235,
+        "GameVersion": "standard",
+        "AccountType": 0,
+        "MemberCategory": 2,
+        "lockedMoveCommands": true,
+        "SavageLockTime": 1722127735.601,
+        "LastTimePlayedAsSavage": 0,
+        "Settings": {},
+        "NicknameChangeDate": 0,
+        "NeedWipeOptions": [],
+        "lastCompletedWipe": null,
+        "lastCompletedEvent": null,
+        "BannedState": false,
+        "BannedUntil": 0,
+        "IsStreamerModeAvailable": false,
+        "SquadInviteRestriction": false,
+        "Bans": []
+      },
+      "Customization": {
+        "Head": "5d28afe786f774292668618d",
+        "Body": "637df28ac22da5bb8d046935",
+        "Feet": "637df25a1e688345e1097bd4",
+        "Hands": "5cc2e68f14c02e28b47de290"
+      },
+      "Health": {
+        "Hydration": {
+          "Current": 100,
+          "Maximum": 100
+        },
+        "Energy": {
+          "Current": 100,
+          "Maximum": 100
+        },
+        "Temperature": {
+          "Current": 30,
+          "Maximum": 30
+        },
+        "BodyParts": {
+          "Head": {
+            "Health": {
+              "Current": 20,
+              "Maximum": 20
+            }
+          },
+          "Chest": {
+            "Health": {
+              "Current": 120,
+              "Maximum": 120
+            }
+          },
+          "Stomach": {
+            "Health": {
+              "Current": 120,
+              "Maximum": 120
+            }
+          },
+          "LeftArm": {
+            "Health": {
+              "Current": 65,
+              "Maximum": 65
+            }
+          },
+          "RightArm": {
+            "Health": {
+              "Current": 65,
+              "Maximum": 65
+            }
+          },
+          "LeftLeg": {
+            "Health": {
+              "Current": 60,
+              "Maximum": 60
+            }
+          },
+          "RightLeg": {
+            "Health": {
+              "Current": 60,
+              "Maximum": 60
+            }
+          }
+        },
+        "UpdateTime": 1722126235
+      },
+      "Inventory": {
+        "items": [
+          {
+            "_id": "09450e419ad69283c9517f41",
+            "_tpl": "55d7217a4bdc2d86028b456d"
+          },
+          {
+            "_id": "f865e87cdd8ac913d6049424",
+            "_tpl": "566abbc34bdc2d92178b4576"
+          },
+          {
+            "_id": "1604677ea231ba255399904c",
+            "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6efbbdca47230a7eec75bfe0",
+            "_tpl": "5963866b86f7747bfa1c4462"
+          },
+          {
+            "_id": "997a3aef1db94ecbf944d656",
+            "_tpl": "602543c13fee350cd564d032"
+          },
+          {
+            "_id": "1199ee2c2b816cdbc8249297",
+            "_tpl": "557ffd194bdc2d28148b457f",
+            "parentId": "09450e419ad69283c9517f41",
+            "slotId": "Pockets"
+          },
+          {
+            "_id": "7653ff9f5e04e61e6339f159",
+            "_tpl": "572b7f1624597762ae139822",
+            "parentId": "09450e419ad69283c9517f41",
+            "slotId": "FaceCover",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "9b71c819cf0ca88ee9b056b5",
+            "_tpl": "59e7643b86f7742cbf2c109a",
+            "parentId": "09450e419ad69283c9517f41",
+            "slotId": "TacticalVest"
+          },
+          {
+            "_id": "64bb15a61da8593f59dc7cda",
+            "_tpl": "5c0e5edb86f77461f55ed1f7",
+            "parentId": "09450e419ad69283c9517f41",
+            "slotId": "ArmorVest"
+          },
+          {
+            "_id": "9c6f753847db7b911b590f98",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "Back_plate",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "0a7da2d97ea55bbbb87fe868",
+            "_tpl": "6571dbef88ead79fcf091d79",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "Collar",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "bcc1b15770171afca17d3bd0",
+            "_tpl": "656f57dc27aed95beb08f628",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "Front_plate",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "574f3c52d57cf893375d928a",
+            "_tpl": "6571dbda88ead79fcf091d75",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "Soft_armor_back",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "e46ca83015253a22cd730bee",
+            "_tpl": "6571dbd388ead79fcf091d71",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "Soft_armor_front",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "0c297d654b05fe5fa985d232",
+            "_tpl": "6571dbe07c02ae206002502e",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "Soft_armor_left",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "e996554c895b7a0993130da6",
+            "_tpl": "6571dbeaee8ec43d520cf89e",
+            "parentId": "64bb15a61da8593f59dc7cda",
+            "slotId": "soft_armor_right",
+            "upd": {
+              "Repairable": {}
+            }
+          },
+          {
+            "_id": "441478ff4c4171c8a294d884",
+            "_tpl": "5d2f0d8048f0356c925bc3b0",
+            "parentId": "09450e419ad69283c9517f41",
+            "slotId": "FirstPrimaryWeapon",
+            "upd": {
+              "Repairable": {},
+              "FireMode": {
+                "FireMode": "fullauto"
+              }
+            }
+          },
+          {
+            "_id": "532a455b3c90e807699b60fe",
+            "_tpl": "5d2f261548f03576f500e7b7",
+            "parentId": "441478ff4c4171c8a294d884",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "35d02d0beca8be62a21b8042",
+            "_tpl": "5d2f259b48f0355a844acd74",
+            "parentId": "532a455b3c90e807699b60fe",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "c0b91908ac04421e7d699878",
+            "_tpl": "5d2f25bc48f03502573e5d85",
+            "parentId": "532a455b3c90e807699b60fe",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "a22f2c96fafd1076cee6b740",
+            "_tpl": "5926d2be86f774134d668e4e",
+            "parentId": "532a455b3c90e807699b60fe",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "51d0b4bcce6fc82413e8c2f7",
+            "_tpl": "5d2f2d5748f03572ec0c0139",
+            "parentId": "441478ff4c4171c8a294d884",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "687933d2b205f5688b6f5c00",
+            "_tpl": "5d2f213448f0355009199284",
+            "parentId": "441478ff4c4171c8a294d884",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "66a58f9bcb55270e79000001",
+            "_tpl": "5c3df7d588a4501f290594e5",
+            "parentId": "687933d2b205f5688b6f5c00",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 20,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "d0fc1792f2ca122164983fa3",
+            "_tpl": "5c3df7d588a4501f290594e5",
+            "parentId": "441478ff4c4171c8a294d884",
+            "slotId": "patron_in_weapon",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "b7e03fae61c44921b4c31dcb",
+            "_tpl": "5d2f213448f0355009199284",
+            "parentId": "9b71c819cf0ca88ee9b056b5",
+            "slotId": "1",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "66a58f9b0df30bbb7a000001",
+            "_tpl": "5c3df7d588a4501f290594e5",
+            "parentId": "b7e03fae61c44921b4c31dcb",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 20,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "a87b9e7f3221f1759b41711b",
+            "_tpl": "56d59856d2720bd8418b456a",
+            "parentId": "09450e419ad69283c9517f41",
+            "slotId": "Holster",
+            "upd": {
+              "Repairable": {},
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "bc8055e0af2eb991dc074eb3",
+            "_tpl": "587de4282459771bca0ec90b",
+            "parentId": "a87b9e7f3221f1759b41711b",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "c10e88093b064e63a4382fc3",
+            "_tpl": "587de5ba2459771c0f1e8a58",
+            "parentId": "bc8055e0af2eb991dc074eb3",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "7be22ce8f0dfaddac4e0d492",
+            "_tpl": "5c0125fc0db834001a669aa3",
+            "parentId": "a87b9e7f3221f1759b41711b",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "14abdef179ef476d7a76075a",
+            "_tpl": "5c07b36c0db834002a1259e9",
+            "parentId": "7be22ce8f0dfaddac4e0d492",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "fac93f892d1d7af623f03d01",
+            "_tpl": "5c07b3850db834002330045b",
+            "parentId": "7be22ce8f0dfaddac4e0d492",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "272deb34b54be8f4c63d7e45",
+            "_tpl": "57c9a89124597704ee6faec1",
+            "parentId": "a87b9e7f3221f1759b41711b",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "5d450596b561d2348c032970",
+            "_tpl": "56d59948d2720bb7418b4582",
+            "parentId": "a87b9e7f3221f1759b41711b",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "66a58f9ba7b55cd15b000001",
+            "_tpl": "64b7bbb74b75259c590fa897",
+            "parentId": "5d450596b561d2348c032970",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 15,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "d3af24f1689a0b315a2be82f",
+            "_tpl": "64b7bbb74b75259c590fa897",
+            "parentId": "a87b9e7f3221f1759b41711b",
+            "slotId": "patron_in_weapon",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "2795ab60e56f5b658bd04648",
+            "_tpl": "56d59948d2720bb7418b4582",
+            "parentId": "9b71c819cf0ca88ee9b056b5",
+            "slotId": "1",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "66a58f9b0df30bbb7a000002",
+            "_tpl": "64b7bbb74b75259c590fa897",
+            "parentId": "2795ab60e56f5b658bd04648",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 15,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "8d48825d1ddf3d1ae6252bf0",
+            "_tpl": "656df4fec921ad01000481a2",
+            "upd": {
+              "FoodDrink": {
+                "HpPercent": 1
+              }
+            },
+            "parentId": "9b71c819cf0ca88ee9b056b5",
+            "slotId": "1",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "745cb5f83f95e726c6d26c43",
+            "_tpl": "57505f6224597709a92585a9",
+            "upd": {
+              "FoodDrink": {
+                "HpPercent": 1
+              }
+            },
+            "parentId": "9b71c819cf0ca88ee9b056b5",
+            "slotId": "1",
+            "location": {
+              "x": 1,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "f2d02d1b1e8e92338a4c5a0c",
+            "_tpl": "5751496424597720a27126da",
+            "upd": {
+              "FoodDrink": {
+                "HpPercent": 1
+              }
+            },
+            "parentId": "1199ee2c2b816cdbc8249297",
+            "slotId": "pocket1",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "2e18a8ff52790b693f9b4d8d",
+            "_tpl": "544fb3364bdc2d34748b456a",
+            "upd": {
+              "MedKit": {
+                "HpResource": 0
+              }
+            },
+            "parentId": "1199ee2c2b816cdbc8249297",
+            "slotId": "pocket2",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "b41188d11ca55a39e9a32d68",
+            "_tpl": "5af0548586f7743a532b7e99",
+            "upd": {
+              "MedKit": {
+                "HpResource": 15
+              }
+            },
+            "parentId": "1199ee2c2b816cdbc8249297",
+            "slotId": "pocket3",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ],
+        "equipment": "09450e419ad69283c9517f41",
+        "stash": "f865e87cdd8ac913d6049424",
+        "questRaidItems": "1604677ea231ba255399904c",
+        "questStashItems": "6efbbdca47230a7eec75bfe0",
+        "sortingTable": "997a3aef1db94ecbf944d656",
+        "hideoutAreaStashes": {},
+        "fastPanel": {},
+        "favoriteItems": []
+      },
+      "Skills": {
+        "Common": [],
+        "Mastering": [],
+        "Points": 0
+      },
+      "Stats": {
+        "Eft": {
+          "CarriedQuestItems": [],
+          "DamageHistory": {
+            "LethalDamagePart": "Head",
+            "BodyParts": []
+          },
+          "DroppedItems": [],
+          "ExperienceBonusMult": 0,
+          "FoundInRaidItems": [],
+          "LastSessionDate": 0,
+          "OverallCounters": {
+            "Items": []
+          },
+          "SessionCounters": {
+            "Items": []
+          },
+          "SessionExperienceMult": 0,
+          "SurvivorClass": "Unknown",
+          "TotalInGameTime": 0,
+          "TotalSessionExperience": 0,
+          "Victims": []
+        }
+      },
+      "Encyclopedia": {
+        "5448bd6b4bdc2dfc2f8b4569": false,
+        "5448c12b4bdc2d02308b456f": false,
+        "5448fee04bdc2dbc018b4567": false,
+        "5449016a4bdc2d6f028b456f": false,
+        "54491bb74bdc2d09088b4567": false,
+        "544a11ac4bdc2d470e8b456a": false,
+        "544a5cde4bdc2d39388b456b": false,
+        "544fb25a4bdc2dfb738b4567": false,
+        "544fb3364bdc2d34748b456a": false,
+        "544fb37f4bdc2dee738b4567": false,
+        "557ffd194bdc2d28148b457f": false,
+        "55d480c04bdc2d1d4e8b456a": false,
+        "55d7217a4bdc2d86028b456d": false,
+        "5645bcc04bdc2d363b8b4572": false,
+        "5648a7494bdc2d9d488b4583": false,
+        "5648b1504bdc2d9d488b4584": false,
+        "5649ad3f4bdc2df8348b4585": false,
+        "5649ade84bdc2d1b2b8b4587": false,
+        "564ca99c4bdc2d16268b4589": false,
+        "566abbc34bdc2d92178b4576": false,
+        "56d59d3ad2720bdb418b4577": false,
+        "56dfef82d2720bbd668b4567": true,
+        "56dff3afd2720bba668b4567": false,
+        "5710c24ad2720bc3458b45a3": false,
+        "57347d7224597744596b4e72": false,
+        "57347da92459774491567cf5": false,
+        "573718ba2459775a75491131": false,
+        "5751a25924597722c463c472": false,
+        "5755356824597772cb798962": false,
+        "5755383e24597772cb798966": false,
+        "576a581d2459771e7b1bc4f1": true,
+        "576a5ed62459771e9c2096cb": false,
+        "576a63cd2459771e796e0e11": false,
+        "576a7c512459771e796e0e17": true,
+        "57dc2fa62459775949412633": false,
+        "57dc324a24597759501edc20": true,
+        "57dc32dc245977596d4ef3d3": false,
+        "57dc334d245977597164366f": true,
+        "57dc347d245977596754e7a1": false,
+        "590c5d4b86f774784e1b9c45": false,
+        "590c5f0d86f77413997acfab": false,
+        "590c661e86f7741e566b646a": false,
+        "59984ab886f7743e98271174": false,
+        "5998517986f7746017232f7e": false,
+        "599851db86f77467372f0a18": false,
+        "5998597786f77414ea6da093": false,
+        "59985a8086f77414ec448d1a": false,
+        "599860ac86f77436b225ed1a": false,
+        "599860e986f7743bb57573a6": false,
+        "59c6633186f7740cf0493bb9": false,
+        "59ccd11386f77428f24a488f": false,
+        "59d36a0086f7747e673f3946": true,
+        "5a0c27731526d80618476ac4": false,
+        "5aa2b87de5b5b00016327c25": false,
+        "5ac4cd105acfc40016339859": false,
+        "5ac50c185acfc400163398d4": false,
+        "5ac50da15acfc4001718d287": false,
+        "5ac72e475acfc400180ae6fe": false,
+        "5ac7655e5acfc40016339a19": false,
+        "5b40e5e25acfc4001a599bea": false,
+        "5b432b965acfc47a8774094e": false,
+        "5bffdc370db834001d23eca8": false,
+        "5ca20abf86f77418567a43f2": false,
+        "5ca20d5986f774331e7c9602": false,
+        "5d1b371186f774253763a656": false,
+        "5d40407c86f774318526545a": false,
+        "5e2af47786f7746d404f3aaa": false,
+        "5e2af4a786f7746d3f3c3400": false,
+        "5e831507ea0a7c419c2f9bd9": false
+      },
+      "TaskConditionCounters": {},
+      "InsuredItems": [],
+      "Hideout": null,
+      "Bonuses": [],
+      "TradersInfo": {
+        "54cb50c76803fa8b248b4571": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "54cb57776803fa99248b456e": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "579dc571d53a0658a154fbec": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1631484143,
+          "unlocked": true
+        },
+        "58330581ace78e27b8b10cee": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5935c25fb3acc3127c3d8cd9": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5a7c2eca46aef81a7ca2145d": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5ac3b934156ae10c4430e83c": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": true
+        },
+        "5c0647fdd443bc2504c2d371": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": false
+        },
+        "638f541a29ffd1183d187f57": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0.01,
+          "nextResupply": 1672241513,
+          "unlocked": true
+        },
+        "656f0f98d80a697f855d34b1": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": false
+        },
+        "6617beeaa9cfa777ca915b7c": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1722127425,
+          "unlocked": false
+        },
+        "ragfair": {
+          "disabled": false,
+          "loyaltyLevel": 1,
+          "salesSum": 0,
+          "standing": 0,
+          "nextResupply": 1576762923,
+          "unlocked": false
+        }
+      },
+      "RagfairInfo": {
+        "isRatingGrowing": true,
+        "offers": [],
+        "rating": 0.2
+      },
+      "UnlockedInfo": {
+        "unlockedProductionRecipe": []
+      },
+      "sessionId": "66a58d5e00023bff1d4a0624",
+      "Quests": [],
+      "Notes": {
+        "Notes": []
+      },
+      "WishList": []
+    }
+  },
+  "suits": [
+    "5cd946231388ce000d572fe3",
+    "5cd945d71388ce000a659dfb"
+  ],
+  "dialogues": {
+    "54cb50c76803fa8b248b4571": {
+      "_id": "54cb50c76803fa8b248b4571",
+      "type": 2,
+      "messages": [
+        {
+          "_id": "818e9dc3de2ce5610360163d",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 10,
+          "dt": 1722127291,
+          "text": "",
+          "templateId": "657315df034d76585f032e01 description",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        }
+      ],
+      "pinned": false,
+      "new": 0,
+      "attachmentsNew": 0
+    },
+    "54cb57776803fa99248b456e": {
+      "_id": "54cb57776803fa99248b456e",
+      "type": 2,
+      "messages": [
+        {
+          "_id": "e91c3f35bdbd14e33ef6a1c2",
+          "uid": "54cb57776803fa99248b456e",
+          "type": 10,
+          "dt": 1722127292,
+          "text": "",
+          "templateId": "657315ddab5a49b71f098853 description",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        }
+      ],
+      "pinned": false,
+      "new": 1,
+      "attachmentsNew": 0
+    },
+    "58330581ace78e27b8b10cee": {
+      "_id": "58330581ace78e27b8b10cee",
+      "type": 2,
+      "messages": [
+        {
+          "_id": "2dc478ee94dda3c2fa15cf70",
+          "uid": "58330581ace78e27b8b10cee",
+          "type": 10,
+          "dt": 1722127293,
+          "text": "",
+          "templateId": "657315e270bb0b8dba00cc48 description",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "034efe2ba16d7a230e9d7b04",
+            "data": []
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "pinned": false,
+      "new": 0,
+      "attachmentsNew": 0
+    },
+    "5a7c2eca46aef81a7ca2145d": {
+      "_id": "5a7c2eca46aef81a7ca2145d",
+      "type": 2,
+      "messages": [
+        {
+          "_id": "aaf6292547426b6dc48102cc",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 10,
+          "dt": 1722127294,
+          "text": "",
+          "templateId": "657315e4a6af4ab4b50f3459 description",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        }
+      ],
+      "pinned": false,
+      "new": 1,
+      "attachmentsNew": 0
+    }
+  },
+  "spt": {
+    "version": "3.9.4 (30626)",
+    "mods": [
+      {
+        "author": "Fika",
+        "dateAdded": 1722126649681,
+        "name": "server",
+        "version": "2.2.4"
+      },
+      {
+        "author": "Krackasourus",
+        "dateAdded": 1722126649681,
+        "name": "collectables_pokemon",
+        "version": "1.1.0"
+      },
+      {
+        "author": "GhostFenixx",
+        "dateAdded": 1722126649681,
+        "name": "SVM",
+        "version": "1.9.1"
+      },
+      {
+        "author": "Fontaine",
+        "dateAdded": 1722126649681,
+        "name": "SPT Realism Mod",
+        "version": "1.4.1"
+      },
+      {
+        "author": "nooky and props",
+        "dateAdded": 1722126649681,
+        "name": "SWAG + DONUTS",
+        "version": "3.5.1"
+      },
+      {
+        "author": "Solarint",
+        "dateAdded": 1722126649681,
+        "name": "SAIN",
+        "version": "3.0.5"
+      }
+    ]
+  },
+  "vitality": {
+    "health": {
+      "Hydration": 0,
+      "Energy": 0,
+      "Temperature": 0,
+      "Head": 0,
+      "Chest": 0,
+      "Stomach": 0,
+      "LeftArm": 0,
+      "RightArm": 0,
+      "LeftLeg": 0,
+      "RightLeg": 0
+    },
+    "effects": {
+      "Head": {},
+      "Chest": {},
+      "Stomach": {},
+      "LeftArm": {},
+      "RightArm": {},
+      "LeftLeg": {},
+      "RightLeg": {}
+    }
+  },
+  "inraid": {},
+  "insurance": [],
+  "traderPurchases": {},
+  "achievements": {},
+  "userbuilds": {
+    "equipmentBuilds": [],
+    "weaponBuilds": [],
+    "magazineBuilds": []
+  }
+}
